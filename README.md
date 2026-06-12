@@ -1,8 +1,14 @@
-# Plastic - Inventory Management System
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Plastic+-+Inventory+Management+System" alt="Typing Animation" />
+</div>
 
-A warehouse and production management web application for a plastic manufacturing company. Built with React and Node.js.
+<p align="center">
+  A warehouse and production management web application for a plastic manufacturing company. Built with React and Node.js.
+</p>
 
 ## Features
+
+<div align="center">
 
 - **User Authentication** — Register and login to access the panel
 - **Product Management** — Add new product pallets with auto-calculated pricing and material usage
@@ -10,7 +16,11 @@ A warehouse and production management web application for a plastic manufacturin
 - **Barcode Generation** — Generate and download barcodes for products as PDF
 - **Persian Language UI** — Full Persian (Farsi) interface with IranYekan font
 
+</div>
+
 ## Tech Stack
+
+<div align="center">
 
 | Frontend | Backend |
 |----------|---------|
@@ -20,6 +30,8 @@ A warehouse and production management web application for a plastic manufacturin
 | NextUI 2 | JsBarcode / bwip-js |
 | React Router 6 | jsPDF |
 | Framer Motion | |
+
+</div>
 
 ## Screenshots
 
@@ -72,6 +84,8 @@ npm run dev
 
 The app is available at `http://localhost:80`.
 
+<div align="center">
+
 ## API Endpoints
 
 | Method | Route | Description |
@@ -83,3 +97,5 @@ The app is available at `http://localhost:80`.
 | GET | `/api/get-products` | Get all products |
 | GET | `/api/get-warehouse` | Get warehouse data |
 | GET | `/api/get-product/:barcode` | Get product by barcode |
+
+</div>
