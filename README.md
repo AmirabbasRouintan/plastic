@@ -18,6 +18,10 @@
 
 </div>
 
+## About
+
+Plastic is a full-featured inventory management system for plastic manufacturing companies. It streamlines product tracking, warehouse management, and barcode generation with a clean Persian-language interface.
+
 ## Features
 
 <div align="center">
